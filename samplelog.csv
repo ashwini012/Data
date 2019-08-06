@@ -1,5 +1,9 @@
 log_type,random_log,flag
-Te,This is random log 1,1
-Te,This is random log 1,0
-As,This is random log 2,1
-As,This is random log 2,1
+Log_type1,This is random log1,1
+Log_type1,This is random log2,0
+Log_type1,This is random log3,1
+Log_type1,This is random log4,0
+Log_type2,This is random log1,1
+Log_type2,This is random log2,0
+Log_type9,This is random log1,1
+Log_type9,This is random log2,0
